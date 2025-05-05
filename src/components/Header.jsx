@@ -1,6 +1,5 @@
 import React, { useState,useEffect } from "react";
 import { Link } from "react-router-dom";
-import "C:/Users/hp/giphy/giphy-app/src/App.css";
 import { HiEllipsisVertical, HiMiniBars3BottomRight } from "react-icons/hi2";
 import { GifState } from "../context/Gif-Context";
 import GifSearch from "./GifSearch";
